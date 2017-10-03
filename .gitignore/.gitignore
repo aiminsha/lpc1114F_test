@@ -1,0 +1,6 @@
+echo "# lpc1114F_test" >> README.md
+git init
+git add README.md
+git commit -m "first commit for test"
+git remote add origin https://github.com/aiminsha/lpc1114F_test.git
+git push -u origin master
